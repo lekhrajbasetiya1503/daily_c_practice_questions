@@ -1,2 +1,4 @@
 # day1
-day1 c code
+
+day one c practice questions
+
