@@ -1,4 +1,3 @@
-# day1
-
-day one c practice questions
-
+daily c practice questions
+- 1 easy questions
+- 1 medium level questions
