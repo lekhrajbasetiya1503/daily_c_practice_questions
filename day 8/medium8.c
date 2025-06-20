@@ -20,7 +20,7 @@ int count(int num)
     
 }
 
-int binarytodecimal(int num)
+int palindrome(int num)
 {
     int count12 = count(num);
     int num1 = num;
@@ -51,8 +51,8 @@ int binarytodecimal(int num)
 int main(){
     
     int num;
-    printf("enter the binary number which you want to change in decimal : ");
+    printf("enter the number to find palindrome or not : ");
     scanf("%d",&num);
-    binarytodecimal(num);
+    palindrome(num);
 
 }
